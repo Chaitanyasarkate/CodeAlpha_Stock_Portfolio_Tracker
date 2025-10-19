@@ -84,11 +84,11 @@ stock-portfolio-tracker/
 
 |
 
-├── stock_portfolio_tracker.py   # Main Python script
+├── stock_portfolio_tracker.py         # Main Python script
 
-├── README.txt                   # Project documentation
+├── README.txt                         # Project documentation
 
-└── .gitignore                   # Optional, to ignore unnecessary files
+└── .gitignore                         # Optional, to ignore unnecessary files
 
 ---
 
